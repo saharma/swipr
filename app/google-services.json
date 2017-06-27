@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "254966818345",
+    "firebase_url": "https://swipr-749e6.firebaseio.com",
+    "project_id": "swipr-749e6",
+    "storage_bucket": "swipr-749e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254966818345:android:737eeb7a29450bdb",
+        "android_client_info": {
+          "package_name": "ie.stepout.swipr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254966818345-aaevcsu74mdb4tnkcmrqtj1225nkrmij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ie.stepout.swipr",
+            "certificate_hash": "379912f2266bf181cf2ae99e6ba9975bbe7178e8"
+          }
+        },
+        {
+          "client_id": "254966818345-frenqv9f8bdfnsq46457ke8it1d422as.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA86yMyWexZ_qRs0Erl6q9clDV7WSqVhN8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254966818345-frenqv9f8bdfnsq46457ke8it1d422as.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
